@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/UMP/Year 3 Sem 2/BCI3283 MOBILE APPLICATION DEVELOPMENT 01B/app/src/main/res/layout/activity_manage_profile.xml" value="0.2" />
+        <entry key="..\:/UMP/Year 3 Sem 2/BCI3283 MOBILE APPLICATION DEVELOPMENT 01B/app/src/main/res/layout/activity_main.xml" value="0.22871376811594202" />
+        <entry key="..\:/UMP/Year 3 Sem 2/BCI3283 MOBILE APPLICATION DEVELOPMENT 01B/app/src/main/res/layout/activity_manage_profile.xml" value="0.152" />
+        <entry key="..\:/UMP/Year 3 Sem 2/BCI3283 MOBILE APPLICATION DEVELOPMENT 01B/app/src/main/res/layout/fragment_hall.xml" value="0.22871376811594202" />
+        <entry key="..\:/UMP/Year 3 Sem 2/BCI3283 MOBILE APPLICATION DEVELOPMENT 01B/app/src/main/res/layout/fragment_home.xml" value="0.22871376811594202" />
+        <entry key="..\:/UMP/Year 3 Sem 2/BCI3283 MOBILE APPLICATION DEVELOPMENT 01B/app/src/main/res/layout/fragment_me.xml" value="0.22871376811594202" />
+        <entry key="..\:/UMP/Year 3 Sem 2/BCI3283 MOBILE APPLICATION DEVELOPMENT 01B/app/src/main/res/layout/fragment_movie.xml" value="0.22871376811594202" />
+        <entry key="..\:/UMP/Year 3 Sem 2/BCI3283 MOBILE APPLICATION DEVELOPMENT 01B/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
       </map>
     </option>
   </component>

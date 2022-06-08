@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/homebar"
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24" />
+    <item android:id="@+id/hallbar"
+        android:title="Cinema Location"
+        android:icon="@drawable/ic_baseline_location_on_24"/>
+    <item android:id="@+id/moviebar"
+        android:title="Movie"
+        android:icon="@drawable/ic_baseline_movie_24"/>
+    <item android:id="@+id/mebar"
+        android:title="Me"
+        android:icon="@drawable/ic_baseline_person_24"/>
+</menu>
